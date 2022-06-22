@@ -96,8 +96,8 @@ console.log(get)
                 }
                 console.log(count+" "+count_com)
         }
-        getpoints.innerHTML="<h2>"+name+"<span class='chgcount'>:"+count+"</span></h2>"
-         getcompoints.innerHTML="<h2>"+"Computer"+":"+"<span class='chgcomcount'>"+count_com+"</span></h2>"
+        getpoints.innerHTML="<h2>"+" "+name+"<span class='chgcount'>:"+count+"</span></h2>"
+         getcompoints.innerHTML="<h2>"+" "+"Computer"+":"+"<span class='chgcomcount'>"+count_com+"</span></h2>"
         
      }
    
