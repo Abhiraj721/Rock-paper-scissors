@@ -1,0 +1,27 @@
+.btn{
+    padding-top: 80px;
+
+    font-size: 50px;
+    background-color: transparent;
+    border: 0px;
+    text-decoration: none;
+ 
+}
+.credits{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+.score{
+   background-color: white;
+   width: 50%;
+
+}
+
+
+body{
+  font-family: 'Josefin Sans', sans-serif; 
+    background-color: rgb(255, 176, 86);
+}
+.vs{
+    font-size: 61px;
+}
